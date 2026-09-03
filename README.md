@@ -1,5 +1,7 @@
 Fable 3 .ghf and .ehf Landscape exporters - with simple gui.
 
+Requires Python and Tkinter.
+
 Single and Batch export to .obj and .pgm.
 
 Fable 3 .ghf files contain the main level landscape/terrain which is navigable by the player.
